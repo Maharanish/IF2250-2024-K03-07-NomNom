@@ -81,8 +81,8 @@ deactivate
 
 Created by
 
-- [@caernations](https://github.com/Maharanish) 13522134 Shabrina Maharani
-- [@caernations](https://github.com/attaramajesta) 13522139 - Attara Majesta Ayub
-- [@caernations](https://github.com/caernations) 13522140 Yasmin Farisah Salma
-- [@caernations](https://github.com/auraleaas) 13522148 - Auralea Alvinia Syaikha 
-- [@caernations](https://github.com/Rapa285) 13522162 - Pradipta Rafa Mahesa
+- [13522134 Shabrina Maharani](https://github.com/Maharanish) 
+- [13522139 - Attara Majesta Ayub](https://github.com/attaramajesta) 
+- [13522140 Yasmin Farisah Salma](https://github.com/caernations) 
+- [13522148 - Auralea Alvinia Syaikha ](https://github.com/auraleaas) 
+- [ 13522162 - Pradipta Rafa Mahesa](https://github.com/Rapa285)
