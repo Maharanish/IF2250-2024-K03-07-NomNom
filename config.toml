@@ -1,0 +1,23 @@
+concurrent = 1
+check_interval = 0
+connection_max_age = "15m0s"
+shutdown_timeout = 0
+
+[session_server]
+  session_timeout = 1800
+
+[[runners]]
+  name = "MSI"
+  url = "https://gitlab.informatika.org"
+  id = 2207
+  token = "glrt-d7_DzkhCWhQzZTPYsq3g"
+  token_obtained_at = 2024-05-19T13:51:51Z
+  token_expires_at = 0001-01-01T00:00:00Z
+  executor = "shell"
+  shell = "powershell"
+  [runners.custom_build_dir]
+  [runners.cache]
+    MaxUploadedArchiveSize = 0
+    [runners.cache.s3]
+    [runners.cache.gcs]
+    [runners.cache.azure]

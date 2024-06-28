@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[transfer]
+	bundleURI = true
+[http "https://gitlab.informatika.org"]
+	sslCAInfo = C:\\Users\\PC\\Documents\\college\\4.0\\RPL\\if2250-2024-k03-07-nomnom\\builds\\d7_DzkhCW\\0\\caernations\\if2250-2024-k03-07-nomnom.tmp\\CI_SERVER_TLS_CA_FILE
